@@ -1,5 +1,16 @@
 # web3-hack
 
+```
+Link to contract_review_"Binary Option"_"GaTe":
+```
+[binary-option](https://docs.google.com/document/d/1RbGKj8bsPkLsElHus3lELH314547H7qDt1nQULbKFH8/edit?usp=sharing)  
+
+![audit](contracts/binary_option/Screenshot 2024-05-05 114503.png)  
+
+<br>
+<br>
+<br>
+
 Link to document with draft of the idea: 
 [idea](https://docs.google.com/document/d/1VRAL0Td6TWPx0Q3h-51-l7WdYbpJesRBI9gvMKmoKnc/edit?usp=sharing)
 
