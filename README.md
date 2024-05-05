@@ -5,7 +5,7 @@ Link to contract_review_"Binary Option"_"GaTe":
 ```
 [binary-option](https://docs.google.com/document/d/1RbGKj8bsPkLsElHus3lELH314547H7qDt1nQULbKFH8/edit?usp=sharing)  
 
-![audit](contracts/binary_option/Screenshot 2024-05-05 114503.png)  
+![audit](https://github.com/missmagenta/web3-hack/blob/main/contracts/binary_option/Screenshot%202024-05-05%20114503.png)  
 
 <br>
 <br>
