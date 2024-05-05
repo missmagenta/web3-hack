@@ -1,12 +1,14 @@
 # web3-hack
 
-```
-Link to contract_review_"Binary Option"_"GaTe":
-```
+
+### Link to contract_review_"Binary Option"_"GaTe":
+
 [binary-option](https://docs.google.com/document/d/1RbGKj8bsPkLsElHus3lELH314547H7qDt1nQULbKFH8/edit?usp=sharing)  
 
 ![audit](https://github.com/missmagenta/web3-hack/blob/main/contracts/binary_option/Screenshot%202024-05-05%20114503.png)  
 
+### Link to Figma design Binary Option:  
+[figma](https://www.figma.com/file/SfNCMnPUKrtgY42kDT9yVO/design?type=design&node-id=2%3A5&mode=design&t=QURvddaMmpTfXWDz-1)
 <br>
 <br>
 <br>
